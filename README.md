@@ -19,10 +19,4 @@ This repository contains the implementation and documentation of all experiments
 - Pandas
 - Matplotlib
 
-## Repository Structure
 
-Each experiment folder contains:
-- Python Notebook (.ipynb)
-- Experiment Report (.pdf)
-- Figures
-- Output Screenshots
