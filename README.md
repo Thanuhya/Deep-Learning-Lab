@@ -20,6 +20,9 @@ This repository contains the implementation and documentation of all experiments
 - Matplotlib
 
 
+**Student:** M. Thanuhya  
+**Roll Number:** CH.SC.U4CSE23033  
+
 ## Repository Structure
 
 Each experiment folder contains:
