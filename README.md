@@ -30,8 +30,6 @@ Each experiment folder contains:
 
 
 
-**Student:** M. Thanuhya  
-**Roll Number:** CH.SC.U4CSE23033 
 
 
 
