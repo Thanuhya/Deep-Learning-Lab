@@ -1,4 +1,4 @@
-# Foundations of Deep Learning Laboratory
+<img width="1096" height="687" alt="image" src="https://github.com/user-attachments/assets/441d0768-5eaf-4dfb-b8e6-78b26fa2e5d7" /># Foundations of Deep Learning Laboratory
 
 This repository contains the implementation and documentation of all experiments completed as part of the Foundations of Deep Learning Laboratory course.
 
@@ -24,5 +24,5 @@ This repository contains the implementation and documentation of all experiments
 
 Each experiment folder contains:
 - Experiment report (.pdf)
-- TensorFlow implementation (.ipynb)
+- Jupyter Notebook (.ipynb)
 - Figures generated during the experiment
