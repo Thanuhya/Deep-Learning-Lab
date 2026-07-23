@@ -20,3 +20,9 @@ This repository contains the implementation and documentation of all experiments
 - Matplotlib
 
 
+## Repository Structure
+
+Each experiment folder contains:
+- Experiment report (.pdf)
+- TensorFlow implementation (.ipynb)
+- Figures generated during the experiment
