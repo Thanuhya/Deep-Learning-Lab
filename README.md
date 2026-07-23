@@ -1,6 +1,5 @@
 # Foundations of Deep Learning Laboratory
-**Student:** M. Thanuhya  
-**Roll Number:** CH.SC.U4CSE23033  
+
 This repository contains the implementation and documentation of all experiments completed as part of the Foundations of Deep Learning Laboratory course.
 
 ## Experiments
@@ -21,9 +20,19 @@ This repository contains the implementation and documentation of all experiments
 - Matplotlib
 
 
+
 ## Repository Structure
 
 Each experiment folder contains:
 - Experiment report (.pdf)
 - Jupyter Notebook (.ipynb)
 - Figures generated during the experiment
+
+
+
+**Student:** M. Thanuhya  
+**Roll Number:** CH.SC.U4CSE23033 
+
+
+
+
