@@ -25,7 +25,7 @@ This repository contains the implementation and documentation of all experiments
 
 Each experiment folder contains:
 - Experiment report (.pdf)
-- Jupyter Notebook (.ipynb)
+- Google Collab Notebook (.ipynb)
 - Figures generated during the experiment
 
 
